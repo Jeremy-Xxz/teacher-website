@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "高校化學事",
-  description: "分享大大小小關於化學高中相關趣聞",
+  description: "分享大大小小關於高中相關趣聞",
 };
 
 export default function RootLayout({
