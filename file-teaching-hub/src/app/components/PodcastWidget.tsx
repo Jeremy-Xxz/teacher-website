@@ -12,7 +12,7 @@ export default function PodcastWidget() {
         <span className="text-[10px] uppercase font-bold text-emerald-600 tracking-wider">SPOTIFY PODCAST</span>
         <h5 className="text-xs font-bold text-slate-800">吉米師的化學事 Podcast</h5>
         <a 
-          href="https://open.spotify.com/show/6SuMxMw3uT5jVa88pPsc" target="_blank" rel="noopener noreferrer"
+          href="https://open.spotify.com/show/6SuMxMw3uT5jVa88pPscQl?si=1f2006b8c35f444d" target="_blank" rel="noopener noreferrer"
           className="block text-center bg-emerald-500 hover:bg-emerald-600 text-white font-bold text-xs py-2 rounded-xl transition"
         >
           立即前往收聽 →
